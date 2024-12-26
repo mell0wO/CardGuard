@@ -8,12 +8,10 @@ This project aims to build and evaluate machine learning models for detecting fr
 ## **Table of Contents**
 - [Project Overview](#overview)
 - [Dataset](#dataset)
-- [Setup](#setup)
 - [Model Development](#model-development)
 - [Results](#results)
 - [Conclusion](#conclusion)
-- [Next Steps](#next-steps)
-- [License](#license)
+- [Setup](#setup)
 
 ---
 
